@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: neato_driver
+Version: 0.2.0
+Summary: This is a generic drivers for the Neato XV-11 Robotic Vacuum.
+Home-page: http://ros.org/wiki/neato_driver
+Author: Michael Ferguson
+Author-email: ferguson@cs.albany.edu
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
